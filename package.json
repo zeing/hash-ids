@@ -1,0 +1,25 @@
+{
+  "name": "ooca-hash-ids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eing-ooca/ooca-hash-ids.git"
+  },
+  "author": "eing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eing-ooca/ooca-hash-ids/issues"
+  },
+  "homepage": "https://github.com/eing-ooca/ooca-hash-ids#readme",
+  "dependencies": {
+    "hashids": "^1.2.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
